@@ -2,19 +2,19 @@
 IOT Locker v1 Arduino Program
 
 Arduino Libraries:
-\n HX711
-OneWire
-RFID
-SerialCommand
+- HX711
+- OneWire
+- RFID
+- SerialCommand
 
 # Installation:
 
-Extract/Copy to: C:\Users\*user*\Documents\Arduino\libraries
+- Extract/Copy to: C:\Users\*user*\Documents\Arduino\libraries
 
 # Arduino Program:
 
-IOTLockerV1 (12142022) Program
-I2C Address Checker Program [for I2C LCD]
+- IOTLockerV1 (12142022) Program
+- I2C Address Checker Program [for I2C LCD]
 
 # Installation:
 

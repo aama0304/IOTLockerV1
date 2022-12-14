@@ -2,7 +2,7 @@
 IOT Locker v1 Arduino Program
 
 Arduino Libraries:
-HX711
+/nHX711
 OneWire
 RFID
 SerialCommand

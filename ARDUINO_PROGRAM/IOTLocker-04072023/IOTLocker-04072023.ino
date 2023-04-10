@@ -248,6 +248,7 @@ void setup()
 
 void loop()
 {
+  sCmd.readSerial();
   Locker1SwitchStat = digitalRead(Locker1Switch);
   Locker2SwitchStat = digitalRead(Locker2Switch);
   Locker3SwitchStat = digitalRead(Locker3Switch);

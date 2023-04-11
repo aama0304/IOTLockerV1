@@ -9,7 +9,12 @@ Arduino Libraries:
 
 # Installation:
 
+Arduino Libraries
 - Extract/Copy to: C:\Users\*user*\Documents\Arduino\libraries
+
+Desktop Program (C# Program)
+- Download Here: https://drive.google.com/file/d/1qH0ZcLi3SNdPF2QrDrmMY-aZzTKWH-LP/view?usp=sharing
+- Extract and execute na .sln file
 
 # Arduino Program:
 

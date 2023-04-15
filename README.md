@@ -12,10 +12,6 @@ Arduino Libraries:
 Arduino Libraries
 - Extract/Copy to: C:\Users\*user*\Documents\Arduino\libraries
 
-Desktop Program (C# Program)
-- Download Here: https://drive.google.com/file/d/1VlhvE-yPOetL54UxLIuhnk32oZ2jVzA1/view
-- Extract and execute na .sln file
-
 # Arduino Program:
 
 - IOTLockerV1 (04072023) Program
@@ -27,6 +23,16 @@ Desktop Program (C# Program)
 2. Take note of the addresses of each LCD modules
 3. change the address of each LCD modules from line 23-26 (ex. 0x27 > 0x0A) on the main program
 4. Upload main program to Arduino board
+
+# Desktop Program (C#):
+
+- IOTLockSystem (04152023-2) Program
+
+# Installation:
+
+Desktop Program (C# Program)
+- Download Here: https://drive.google.com/file/d/1VlhvE-yPOetL54UxLIuhnk32oZ2jVzA1/view
+- Extract and execute na .sln file
 
 # Integration:
 

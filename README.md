@@ -13,7 +13,7 @@ Arduino Libraries
 - Extract/Copy to: C:\Users\*user*\Documents\Arduino\libraries
 
 Desktop Program (C# Program)
-- Download Here: https://drive.google.com/file/d/1VlhvE-yPOetL54UxLIuhnk32oZ2jVzA1/view?usp=sharing
+- Download Here: https://drive.google.com/file/d/1VlhvE-yPOetL54UxLIuhnk32oZ2jVzA1/view
 - Extract and execute na .sln file
 
 # Arduino Program:
